@@ -17,4 +17,4 @@
 
 # O que a aplicação faz ?
 
-### É uma aplicação simples, que lista pokemons da primeira geração e possibilita armazena-los em uma tabela, ou excluir dessa tabela.
+### É uma aplicação simples, que lista pokemons da primeira geração e possibilita armazena-los em uma tabela, ou excluir da tabela.
