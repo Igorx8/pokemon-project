@@ -1,4 +1,4 @@
-# Passo a passo
+# Instalação
 
 ### Abra as pastas pokemon-api e pokemon-app e rode o comando 
 ```npm install```
@@ -13,3 +13,8 @@
 
 ### Para rodar o back-end, execute o comando 
 ```npm run start:dev``` (o banco precisa estar rodando)
+
+
+# O que a aplicação faz ?
+
+### É uma aplicação simples, que lista pokemons da primeira geração e possibilita armazena-los em uma tabela, ou excluir dessa tabela.
